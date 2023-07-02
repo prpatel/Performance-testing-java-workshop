@@ -38,7 +38,8 @@ Download the built Spring Boot app from this workshop’s project folder
 Start everything up, remember to set the JVM as described above
 
 Run Spring boot app:
-
+Download JAR file from:
+https://drive.google.com/file/d/1-J1sXzRMmtbDK4pVpwdWcTcZHWXRtCdz/view?usp=sharing
 (building it downloads too many test related things like Docker containers)
 
 java -Xmx64m '-Xlog:gc*=debug:file=test_zulu_17.log' -javaagent:../jHiccup-2.0.10/jHiccup.jar -jar target/spring-petclinic-3.1.0-SNAPSHOT.jar
