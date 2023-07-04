@@ -31,9 +31,8 @@ Download HistogramLogAnalyzer from this workshop’s project folder
 
 ([https://github.com/prpatel/Performance-testing-java-workshop](https://github.com/prpatel/Performance-testing-java-workshop))
 
-Download the built Spring Boot app from this workshop’s project folder
-
-([https://github.com/prpatel/Performance-testing-java-workshop](https://github.com/prpatel/Performance-testing-java-workshop))
+Download the built Spring Boot app from the link below
+https://drive.google.com/file/d/1-J1sXzRMmtbDK4pVpwdWcTcZHWXRtCdz/view?usp=sharing
 
 Start everything up, remember to set the JVM as described above
 
