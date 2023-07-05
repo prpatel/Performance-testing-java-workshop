@@ -34,6 +34,10 @@ Download HistogramLogAnalyzer from this workshop’s project folder
 
 ([https://github.com/prpatel/Performance-testing-java-workshop](https://github.com/prpatel/Performance-testing-java-workshop))
 
+Download [GCLogAnalyzer](https://docs.azul.com/prime/GC-Log-Analyzer)
+
+https://cdn.azul.com/gcla/GCLogAnalyzer2.jar
+
 Download the built Spring Boot app from the link below
 https://drive.google.com/file/d/1-J1sXzRMmtbDK4pVpwdWcTcZHWXRtCdz/view?usp=sharing
 
