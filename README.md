@@ -27,6 +27,9 @@ Download and install VisualVM:
 
 [https://visualvm.github.io/download.html](https://visualvm.github.io/download.html)
 
+Download jHiccup:
+https://www.azul.com/products/components/jhiccup/
+
 Download HistogramLogAnalyzer from this workshop’s project folder
 
 ([https://github.com/prpatel/Performance-testing-java-workshop](https://github.com/prpatel/Performance-testing-java-workshop))
